@@ -1,0 +1,14 @@
+download/
+**/*.pth
+**/*.jpg
+__pycache__/
+pre_trained/
+yes
+yes.pub
+tools/output/
+tools/output_1221/
+tools/output_1224/
+tools/output_1224_2/
+tools/output*/
+tools/log/
+models/
